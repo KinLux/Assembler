@@ -41,6 +41,10 @@ Assembler Coding
 
 **System Calls Table for x86**
 
-x86_32 - https://syscalls.kernelgrok.com/
+[x86_32](https://syscalls.kernelgrok.com/)
 
-x86_64 - https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/
+[x86_64](https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
+
+**Referenz for good tutorials**
+
+[Assembler Tutorial - www.cs.virginia.edu](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
