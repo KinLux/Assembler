@@ -28,7 +28,7 @@ Assembler Coding
 |cmp||
 |call, ret||
 
-|Control Flow Instructions||
+|jcondition||
 | ------------- | ------------- |
 |je <label> (jump when equal)|
 |jne <label> (jump when not equal)|
@@ -37,9 +37,3 @@ Assembler Coding
 |jge <label> (jump when greater than or equal to)|
 |jl <label> (jump when less than)|
 |jle <label> (jump when less than or equal to)|
-
-|Control Flow Instructions||
-| ------------- | ------------- |
-|jmp||
-|cmp||
-|call, ret||
