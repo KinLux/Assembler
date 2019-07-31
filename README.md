@@ -37,3 +37,6 @@ Assembler Coding
 |jge <label> (jump when greater than or equal to)|
 |jl <label> (jump when less than)|
 |jle <label> (jump when less than or equal to)|
+
+**x86_32 - https://syscalls.kernelgrok.com/**
+**x86_64 - https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/**
