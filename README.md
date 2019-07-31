@@ -1,18 +1,45 @@
 # Assembler
-Low Level Assembler Coding
+Assembler Coding
 
-chmod +x input/create.sh
+**Operations**
 
-run ./input/create.sh input to create the object-file input.o and the linker to execute the file
+| Data Movement Instructions |  |
+| ------------- | ------------- |
+| mov |   |
+| push |   |
+| pop |   |
+| lea |   |
 
-|Operation Name|Operation Name (signed)|Description|
-| --- | --- | --- |
-|add a, b| - |a=a+b|
-|sub a, b| - |a=a-b|
-|mul reg | imul reg | rax=rax*reg|
-|div reg | idiv reg | rax=rax/reg|
-|neg reg | - | reg=-reg|
-|inc reg | - | reg=reg+1|
-|dec reg | - | reg=reg-1|
-|adc a, b| - | a=a+b+CF|
-|sbb a, b| - | a=a-b-CF|
+| Arithmetic and Logic Instructions |  |
+| ------------- | ------------- |
+| add |   |
+| sub |   |
+| inc, dec |   |
+| imul |   |
+| idiv |   |
+|and, or, xor |   |
+| not |   |
+|neg||
+|shl, shr||
+
+|Control Flow Instructions||
+| ------------- | ------------- |
+|jmp||
+|cmp||
+|call, ret||
+
+|Control Flow Instructions||
+| ------------- | ------------- |
+|je <label> (jump when equal)|
+|jne <label> (jump when not equal)|
+|jz <label> (jump when last result was zero)|
+|jg <label> (jump when greater than)|
+|jge <label> (jump when greater than or equal to)|
+|jl <label> (jump when less than)|
+|jle <label> (jump when less than or equal to)|
+
+|Control Flow Instructions||
+| ------------- | ------------- |
+|jmp||
+|cmp||
+|call, ret||
