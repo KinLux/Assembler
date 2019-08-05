@@ -46,9 +46,9 @@ Assembler Coding
 
 |Control Flow Instructions||
 | ------------- | ------------- |
-|jmp||
-|cmp||
-|call, ret||
+|jmp|jump|
+|cmp|comparison|
+|call, ret|Function calls and return value|
 
 |jcondition||
 | ------------- | ------------- |
