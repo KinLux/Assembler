@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="70f26c4c-34c3-4139-b40f-b03cc2a673f7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="862" />
     <option name="y" value="184" />
     <option name="width" value="1941" />
@@ -107,7 +108,7 @@
       <updated>1564587845417</updated>
       <workItem from="1564587846642" duration="628000" />
       <workItem from="1564589407611" duration="3053000" />
-      <workItem from="1565007678716" duration="19000" />
+      <workItem from="1565007678716" duration="618000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1564590326518</created>
@@ -148,7 +149,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3700000" />
+    <option name="totallyTimeSpent" value="4299000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="575" y="123" width="1294" height="1408" extended-state="0" />
