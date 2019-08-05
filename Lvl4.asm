@@ -14,3 +14,4 @@ label:
 
     mov eax, 1
     int  0x80
+;basic loop
