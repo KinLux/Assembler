@@ -15,4 +15,4 @@ _start:
     int 0x80
 
 section .data
-    addr db "yellow"
+    addr db "yellow"; db is a 1 byte string
