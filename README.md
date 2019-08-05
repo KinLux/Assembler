@@ -60,6 +60,14 @@ Assembler Coding
 |jl <label> (jump when less than)|
 |jle <label> (jump when less than or equal to)|
 
+**section .data types**
+DB - Define Byte. 8 bits
+
+DW - Define Word. Generally 2 bytes on a typical x86 32-
+bit system
+
+DD - Define double word. Generally 4 bytes on a typical x86 32-bit system
+
 
 **System Calls Table for x86**
 
