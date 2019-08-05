@@ -1,11 +1,22 @@
 # Assembler
 Assembler Coding
 
-**Basics**
+**Required**
 
 `sudo apt install nasm`
 
-`$nasm -f elf 32  lvl1.asm -o lvl1.o`
+
+**Basics x86_32**
+
+`$nasm -f elf32  lvl1.asm -o lvl1.o`
+
+`$ld -m elf_i386 lvl1.o -o lvl1`
+
+`$./lvl1`
+
+**Basics x86_64**
+
+`$nasm -f el642  lvl1.asm -o lvl1.o`
 
 `$ld -m elf_i386 lvl1.o -o lvl1`
 
@@ -61,3 +72,5 @@ Assembler Coding
 [Assembler Tutorial - www.cs.virginia.edu](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 
 ![alt text](https://www.cs.virginia.edu/~evans/cs216/guides/x86-registers.png)
+
+[https://asmtutor.com](https://asmtutor.com)
